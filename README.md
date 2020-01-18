@@ -9,3 +9,5 @@ To configure, proceed as follows:
 
 Upon install, there is only one immediately noticeable change: marked cards appear no longer in grey (<code>#cccccc</code>) – which made it difficult to distinguish them from selected cards, painted in dark grey – but in lavender (<code>#e6e6fa</code>).
 
+<ul> <ol><img src="https://raw.githubusercontent.com/schmidhauser/anki-colours-of-cards/master/colours_of_cards.png"></ol></ul>
+
