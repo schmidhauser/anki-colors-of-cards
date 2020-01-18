@@ -9,5 +9,6 @@ To configure, proceed as follows:
 
 Upon install, there is only one immediately noticeable change: marked cards appear no longer in grey (<code>#cccccc</code>) – which made it difficult to distinguish them from selected cards, painted in dark grey – but in lavender (<code>#e6e6fa</code>). In the example shown infra, for instance, you may see that the line starting with the word “<i>dur</i>” is currently selected (and thus grey), whereas the line starting with “<i>bist</i>” is marked (and thus lavender). The five following coloured lines have the standard colours for suspension and flags 1 to 4.
 
+
 <ul> <ol><img src="https://raw.githubusercontent.com/schmidhauser/anki-colours-of-cards/master/colours_of_cards.png"></ol></ul>
 
